@@ -8,10 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-**Chaerin Lee**
+**Name:** Chaerin Lee
 
-**Academic Interests:** Tourism Strategy, Hospitality Marketing, Service Operations, AI-enabled Tourism, and Quantitative Analysis
+**Education:** Undergraduate Student at [Hanyang University](www.hanyang.ac.kr), double-majoring in Chinese Language and Literature and Tourism
 
-**Education:** B.A. Double Major in Tourism and Chinese Language and Literature, Hanyang University (Mar 2024 – Aug 2027)
+**Academic Interests:** Quantitative Marketing and Service Operations in Hospitality
 
 **Technical Skills:** Python (NumPy, SciPy, Matplotlib)
