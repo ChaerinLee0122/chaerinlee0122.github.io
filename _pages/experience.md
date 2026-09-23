@@ -1,7 +1,7 @@
 ---
 layout: single
-title: "Experience"
-permalink: /experience/
+title: "Achievement"
+permalink: /achievement/
 author_profile: false
 excerpt: "Work achievement story by Chaerin Lee."
 ---
@@ -12,6 +12,7 @@ excerpt: "Work achievement story by Chaerin Lee."
 
 <div class="document-prose" markdown="1">
 
+**Revamping image of horses in Korea**
 “What? You are going to the Let’s Run Park?” My mother was stunned when I told her I had to visit the park for a class project. It is the only park in Korea that includes a horse racing track, and in Korea, horse racing is often associated with gambling.
 
 To be honest, I was also a bit worried because of the negative images of horse racing that I had seen on TV and in movies before: images of gaunt gambling addicts smoking while shouting for their picks.
