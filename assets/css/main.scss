@@ -275,6 +275,84 @@
   padding-top: 0.25rem;
 }
 
+/* Long-form application documents */
+.document-actions {
+  display: flex;
+  justify-content: flex-end;
+  margin: -3.15rem 0 2.25rem;
+}
+
+.document-download {
+  display: inline-flex;
+  align-items: center;
+  min-height: 2.25rem;
+  padding: 0.55rem 0.95rem;
+  border: 1px solid var(--global-link-color);
+  border-radius: 0.35rem;
+  color: #fff !important;
+  background: var(--global-link-color);
+  font-size: 0.76rem;
+  font-weight: 700;
+  text-decoration: none !important;
+  transition: filter 0.2s ease, transform 0.2s ease;
+}
+
+.document-download:hover {
+  filter: brightness(0.92);
+  transform: translateY(-1px);
+}
+
+.document-prose {
+  max-width: 52rem;
+  margin: 0 auto;
+}
+
+.document-prose p {
+  margin-bottom: 1.35rem;
+  font-size: 0.94rem;
+  line-height: 1.82;
+}
+
+.cv-document {
+  max-width: 62rem;
+  margin: 0 auto;
+}
+
+.cv-document > h2:first-child {
+  margin-top: 0;
+  border-bottom: 0;
+  text-align: center;
+  font-size: 1.75rem;
+}
+
+.cv-document > h2:first-child + p {
+  text-align: center;
+}
+
+.cv-document h2:not(:first-child) {
+  margin-top: 2.4rem;
+  padding-bottom: 0.35rem;
+  border-bottom: 2px solid var(--global-link-color);
+  font-size: 1.05rem;
+  letter-spacing: 0.04em;
+}
+
+.cv-document h3 {
+  margin-top: 1.55rem;
+  font-size: 1rem;
+  line-height: 1.45;
+}
+
+.cv-document p,
+.cv-document li {
+  font-size: 0.88rem;
+  line-height: 1.62;
+}
+
+.cv-document ul {
+  margin-bottom: 1rem;
+}
+
 @media (max-width: 48rem) {
   .profile-hero {
     padding: 1.5rem;
@@ -301,5 +379,10 @@
     display: block;
     float: none;
     margin-top: 0.4rem;
+  }
+
+  .document-actions {
+    justify-content: flex-start;
+    margin: 0 0 1.75rem;
   }
 }

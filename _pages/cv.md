@@ -1,94 +1,155 @@
 ---
-layout: archive
+layout: single
 title: "CV"
 permalink: /cv/
-author_profile: true
-excerpt: "Education, experience, projects, service, and technical skills."
+author_profile: false
+excerpt: "Curriculum vitae of Chaerin Lee."
 redirect_from:
   - /resume
 ---
 
-<div class="cv-summary">
-  <p><strong>Chaerin Lee</strong><br>Seoul, South Korea · <a href="mailto:dlcofls0122@hanyang.ac.kr">dlcofls0122@hanyang.ac.kr</a></p>
-  <p>Undergraduate researcher-in-training interested in quantitative marketing, service operations, AI-enabled tourism, and hospitality strategy.</p>
+<div class="document-actions">
+  <a class="document-download" href="{{ '/documents/chaerin-lee-cv.docx' | relative_url }}" download>Download CV (.docx)</a>
 </div>
 
-## Education
+<div class="cv-document" markdown="1">
 
-### Hanyang University <span class="cv-date">Mar 2024 - Aug 2027 (expected)</span>
+## Chaerin Lee
 
-**B.A., Double Major in Tourism and Chinese Language and Literature**<br>
+Jamsil-dong, Seoul, Korea<br>
+Tel: +82-10-3810-5175<br>
+[dlcofls0122@gmail.com](mailto:dlcofls0122@gmail.com)
+
+## EDUCATION
+
+### Hanyang University, Seoul, Korea <span class="cv-date">Mar 2024 – Aug 2027</span>
+
+B.A. Double major:
+
+- Tourism
+- Chinese Language and Literature
+
 On track to graduate with Highest Honors (Summa Cum Laude)
 
-**Selected coursework:** Tourism Economics; Tourism Revenue Management; Cultural Tourism Strategy; Hospitality and Tourism Marketing; Creative Programming (Machine Learning); Creative Computing (Python); Artificial Intelligence and Machine Learning (Deep Learning); Quantitative Analysis of Language Data.
+**Selected Coursework**
 
-## Work experience
+- Tourism Economics, Tourism Revenue Management
+- Cultural tourism strategy, Hospitality and Tourism Marketing,
+- Creative Programming (Machine learning), Creative Computing (Python)
+- Artificial Intelligence and Machine Learning (Deep learning)
+- Quantitative Analysis of Language Data
 
-### NLLN Co., Ltd. - Intern <span class="cv-date">Dec 2025 - Feb 2026</span>
+## SELECTED COURSE PROJECTS
 
-- Supported manufacturing IT implementation projects by analyzing AI-agent, machine-learning, and factory-automation adoption trends and contributing to sales strategy development.
-- Joined client site visits and working-level meetings to identify operational pain points and business requirements, analyze root causes, and develop solution recommendations.
-- Collaborated with engineering, consulting, and marketing teams on proposals integrating technical and business perspectives.
+### 1. ESG-Driven Regeneration & Business Strategy for Let’s Run Park Seoul
 
-## Selected projects
+*Theories of Tourism Resources*
 
-### ESG-Driven Regeneration and Business Strategy for Let's Run Park Seoul
+- Formulated a master plan to transform KRA’s (Korea Racing Authority) flagship site into an ESG-integrated sports theme park, targeting non-race day activation and target audience diversification (family & 2030 demographics).
+- Structured space utilization plans for 340-acre idle assets using a Fishbone Diagram, introducing E-sports management arcades, motion simulators, and glamping revenue drivers.
+- Developed a 130-person operational human resource plan and structured an ESG governance framework (e.g. retired racehorse welfare programs, zero-waste local F&B partnerships)
+- Designed a CAPEX Allocation Plan constrained by public corporate revenue laws, mapping investments across ecosystem programs, running grounds, and immersive media centers.
 
-- Developed an ESG-integrated sports theme park plan for 340 acres of idle assets.
-- Structured a 130-person operating model, ESG governance framework, and CAPEX allocation plan.
+### 2. World Youth Day 2027: "Global Youth Seoul Living Lab" & UGC Reporter Program
 
-### World Youth Day 2027: Global Youth Seoul Living Lab
+*Tourism Policy Proposal Competition*
 
-- Modeled a ₩115M budget against ₩150M+ estimated tourist expenditure, indicating 130%+ projected ROI.
-- Designed a multilingual UGC reporter program for participants from 100+ nationalities and a one-month local-living package.
+- Conducted strategic macro diagnostics (PEST, SWOT, VRIO, ESG) and financial feasibility modeling (₩115M budget vs. ₩150M+ estimated tourist expenditure, demonstrating a 130%+ ROI)
+- Created a multi-language User Generated Content reporter system converting 100+ nationality youth into global city ambassadors via short-form video creation.
+- Formulated the "Global Youth Seoul Living Lab" framework, providing a 1-month stay package to meet Z-generation demand for "Living Like a Local.”
 
-### Amazon Shopper Panel and Ad Attribution
+### 3. Strategic Business Analysis: Amazon Shopper Panel & Ad Attribution
 
-- Benchmarked Amazon against Nielsen, Circana/NPD, Google Opinion Rewards, and Ibotta.
-- Evaluated identity integration, attribution, GDPR/CCPA, antitrust, tracking, and data-valuation trade-offs.
+*Hospitality and Tourism Marketing*
 
-### Food Delivery Industry Strategy
+- Conducted an in-depth case analysis on Amazon Shopper Panel, evaluating Amazon’s strategic pivot to capture off-platform offline retail data amidst the cookie less era.
+- Benchmarked Amazon Shopper Panel against legacy consumer panels (Nielsen, Circana/NPD, Google Opinion Rewards, Ibotta) across data exclusivity, account-level ID integration, and digital ad attribution capabilities.
+- Diagnosed ethical and regulatory vulnerabilities regarding GDPR, CCPA, and Antitrust laws, assessing trade-offs between consumer privacy (GPS/device ID tracking), data valuation fairness, and off-platform competitive data acquisition.
 
-- Compared platform business models, subscription retention, fee structures, and service quality using SERVQUAL.
-- Forecasted quick commerce, autonomous last-mile delivery, and IP-driven ghost kitchens.
+### 4. Market Evolution & Strategic Analysis of the Food Delivery Industry
 
-### Nielsen PRIZM for Hospitality
+*Contemporary Issues in Service Industry*
 
-- Applied geodemographic segmentation to Marriott marketing, including upsell, partnership, and digital-channel strategies.
-- Proposed localized data re-engineering to address non-U.S. and travel-context limitations.
+- Formulated strategic growth models incorporating delivery subscription mechanics and assessed service quality multi-dimensionally using the SERVQUAL framework.
+- Conducted a comparative study on delivery platform business models, analyzing market survival factors, fee structure dynamics, and subscription-based customer retention strategies.
+- Forecasted future industry transformations, examining trends in Quick-Commerce, autonomous last-mile logistics (M2M elevator-integrated delivery robots and drones), and IP-driven Ghost Kitchens.
 
-### AI-Powered Emotion-Based Stayover Tourism Cluster
+### 5. Nielsen PRIZM: Geodemographic Modeling & Hospitality Application
 
-- Designed an AI-enabled tourism concept combining emotion, fatigue, mobility, AR, and location data for personalized itineraries.
-- Proposed a multi-day tourism cluster and resident-participatory AR experiences for Chung-Buk Province.
+*Hospitality and Tourism Marketing*
 
-### Global Brand Strategy and Leadership Analyses
+- Analyzed the Nielsen PRIZM geodemographic framework (68 household-level lifestyle narrative segments), demonstrating how lifestyle narratives overcome traditional demographic segmentation constraints to explain consumer motivations.
+- Applied the PRIZM methodology to hotel marketing (Marriott International), profiling the Y1-34 segment to design targeted upsell packages, fitness partnerships, and digital channel strategies.
+- Identified strategic limitations regarding non-US market adaptation and travel-specific situational variables, proposing localized data re-engineering.
 
-- Audited Aman Group's brand, wellness, ESG, membership, and lifestyle strategies against luxury-hospitality peers.
-- Applied organizational and transformational leadership frameworks to Marriott and Chaumet executive eras.
+### 6. AI-Powered Emotion-Based Stayover Tourism Cluster: Chung-Buk
 
-## Volunteer experience
+*International Tourist Behavior*
 
-### Hanyang Global Lions Supporters - Student Supporter <span class="cv-date">May 2025 - Jul 2025</span>
+- Proposed a conceptual framework for an AI-enabled smart tourism platform integrating traveler emotion and fatigue indicators, mobility patterns, AR engagement data, and location-based activity logs to support personalized itinerary planning and local service recommendations.
+- Formulated a smart tourism master plan for Chung-Buk Province to shift day-trip dependency toward multi-day stayover travel by establishing an interactive healing, nighttime, and workation cluster across Chung-Buk Province.
+- Designed resident-participatory AR experiences co-created with local elders and artisans to preserve cultural authenticity and prevent commercialized commodification.
 
-- Led weekly cultural immersion programs serving 1,712+ students from 50+ countries in the Hanyang International Summer School.
-- Managed program design, scheduling, logistics, stakeholder coordination, participant support, and on-site execution.
-- Developed promotional content and delivered exchange-program outreach sessions.
+### 7. Aman Group: Global Brand Strategy & Industry Benchmarking
 
-### Kkumdungji Community Child Center - Volunteer <span class="cv-date">Sep 2026 - Present</span>
+*The Understanding of Hotel*
 
-- Provide weekly mathematics tutoring as part of a 10-week program for middle and high school students from underserved backgrounds.
-- Teach algebra, geometry, probability and statistics, and calculus.
+- Conducted a comprehensive brand audit of Aman Group, analyzing its business model evolution from remote eco-sanctuaries to urban lifestyle hubs (e.g., Janu, Aman Club, Aman Yacht).
+- Executed a competitive intelligence analysis comparing Aman with ultra-luxury peers (Six Senses and COMO Hotels), evaluating differences in medical wellness offerings and ESG/sustainability governance frameworks (GSTC, Earth Lab).
+- Analyzed revenue optimization strategies (Aman Club membership, lifestyle retail) against the risk of prestige erosion in the high-end hospitality segment.
 
-## Activities
+### 8. Organizational Behavior & Leadership Frameworks at Marriott
 
-### HUHS - Computer Engineering Club <span class="cv-date">Mar 2025 - Present</span>
+*Hospitality and Tourism Leadership*
 
-- Participate in peer-learning sessions and technical discussions with engineering students and graduate students.
-- Collaborated on university-festival booth planning, visitor engagement, and on-site operations.
+- Conducted a comparative case study on former Marriott CEOs (Bill Marriott and Arne Sorenson) utilizing Leadership Behavioral Theory and the universality hypothesis.
+- Facilitated in-depth discussions on leadership prioritization in high-stakes environments, balancing organizational culture with crisis management.
+- Synthesized strategic insights demonstrating that while relationship-driven cultures lay the foundation for organizational trust, corporate scaling and complex market dynamics (e.g., Starwood M&A, asset-light transition, and pandemic response) demand a shift toward strategic, task-oriented governance.
 
-## Skills and interests
+### 9. Strategic Leadership & Luxury Heritage Transformation: Chaumet (LVMH Group)
 
-- **Programming:** Python (NumPy, SciPy, Matplotlib)
-- **Languages:** Korean (native), English, Chinese
-- **Interests:** Baking, hiking, traveling
+*Hospitality and Tourism Leadership*
+
+- Applied Transformational Leadership Theory and Strategic Reframing to diagnose three executive eras: Béatrice de Plinval, Jean-Marc Mansvelt, Charles Leung.
+- Evaluated organizational transformation strategies across Chaumet’s history, identifying how leadership leveraged historical archives to overcome financial crises and regulatory shifts.
+
+## WORK EXPERIENCE
+
+### NLLN Co., Ltd – Intern <span class="cv-date">Dec 2025 – Feb 2026</span>
+
+- Supported IT system implementation projects for manufacturing clients by analyzing adoption trends in AI agents, machine-learning solutions, and factory automation technologies and contributing to sales strategy development.
+- Participated in client site visits and working-level meetings to identify operational pain points and business requirements, analyze relevant data and root causes, and develop improvement opportunities and solution recommendations.
+- Collaborated cross-functionally with engineering, consulting, and marketing teams to co-develop client proposals that integrated technical and business perspectives.
+
+## VOLUNTEER EXPERIENCE
+
+### Hanyang Global Lions Supporters | Student Supporter <span class="cv-date">May 2025 – Jul 2025</span>
+
+- Led weekly cultural immersion programs for participants in the 2025 Hanyang International Summer School, serving a global cohort of 1,712+ students from 50+ countries through themed field trips and guided cultural activities.
+- Managed end-to-end operations for cultural events, including program design, scheduling, logistics, stakeholder coordination, participant support, and on-site execution.
+- Developed promotional content and delivered outreach sessions for university exchange programs, strengthening student awareness and engagement across an internationally diverse campus community.
+
+### Kkumdungji Community Child Center | Volunteerer <span class="cv-date">Sep 2026 – Present</span>
+
+- Provide weekly mathematics tutoring to middle and high school students for 10 weeks from underserved backgrounds, including low-income, multicultural, and students with disabilities.
+- Teach mathematics across the Korean secondary-school curriculum, including algebra, geometry, probability and statistics, and calculus.
+
+## CLUB ACTIVITIES
+
+### HUHS – Computer Engineering Club <span class="cv-date">Mar 2025 – Present</span>
+
+- Participated in regular peer learning sessions with computer engineering students and graduate students, gaining exposure to engineering coursework, technical textbooks, and graduate-level programming practices.
+- Engaged in informal technical discussions and collaborative study sessions, which strengthened my interest in programming, engineering research, and graduate education.
+- Collaborated with club members in organizing and operating a booth during the university festival, supporting event preparation, visitor engagement, and on-site activities.
+
+## ADDITIONAL INFORMATION
+
+**Languages:** Korean (Native), English, Chinese
+
+**Hobbies:** Baking, Hiking, Traveling
+
+## TECHNICAL SKILLS
+
+**Programming:** Python(NumPy, SciPy, Matplotlib)
+
+</div>
