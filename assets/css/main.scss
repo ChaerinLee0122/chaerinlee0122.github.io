@@ -37,3 +37,266 @@
     "layout/sidebar",
     "layout/json_cv"
 ;
+
+/* Graduate portfolio components */
+.profile-hero {
+  margin: 0 0 3rem;
+  padding: 2.5rem;
+  border: 1px solid var(--global-border-color);
+  border-radius: 1rem;
+  background: linear-gradient(135deg, rgba(82, 173, 200, 0.14), rgba(82, 173, 200, 0.02));
+}
+
+.profile-hero h1 {
+  max-width: 15ch;
+  margin: 0.35rem 0 1rem;
+  font-size: clamp(2rem, 5vw, 3.7rem);
+  line-height: 1.04;
+  letter-spacing: -0.045em;
+}
+
+.profile-eyebrow,
+.project-story__meta {
+  margin: 0;
+  color: var(--global-link-color);
+  font-size: 0.72rem;
+  font-weight: 700;
+  letter-spacing: 0.12em;
+}
+
+.profile-lede,
+.profile-page-intro {
+  max-width: 48rem;
+  color: var(--global-text-color-light);
+  font-size: 1.08rem;
+  line-height: 1.7;
+}
+
+.profile-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.65rem;
+  margin-top: 1.5rem;
+}
+
+.profile-button {
+  display: inline-block;
+  padding: 0.7rem 1rem;
+  border: 1px solid var(--global-link-color);
+  border-radius: 999px;
+  font-size: 0.78rem;
+  font-weight: 700;
+  text-decoration: none !important;
+}
+
+.profile-button--primary {
+  color: #fff !important;
+  background: var(--global-link-color);
+}
+
+.profile-grid {
+  display: grid;
+  gap: 1rem;
+  margin: 1.2rem 0 2.8rem;
+}
+
+.profile-grid--three {
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+}
+
+.profile-card,
+.project-story,
+.experience-feature,
+.experience-list article {
+  border: 1px solid var(--global-border-color);
+  border-radius: 0.8rem;
+}
+
+.profile-card {
+  padding: 1.25rem;
+}
+
+.profile-card h3 {
+  margin: 0.45rem 0 0.45rem;
+  font-size: 1.05rem;
+}
+
+.profile-card p,
+.profile-next,
+.project-story p,
+.project-story li,
+.experience-feature p,
+.experience-list p {
+  font-size: 0.9rem;
+  line-height: 1.65;
+}
+
+.profile-card__index {
+  color: var(--global-link-color);
+  font-size: 0.72rem;
+  font-weight: 700;
+}
+
+.profile-quote {
+  margin: 2rem 0 3rem;
+  padding: 1.25rem 1.5rem;
+  border-left: 4px solid var(--global-link-color);
+  background: rgba(82, 173, 200, 0.08);
+}
+
+.profile-quote p {
+  margin: 0;
+  font-size: 1.1rem;
+  font-weight: 600;
+  line-height: 1.6;
+}
+
+.profile-metrics {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: 0.8rem;
+  margin: 1.2rem 0 2rem;
+}
+
+.profile-metrics article {
+  padding: 1rem 0;
+  border-top: 2px solid var(--global-link-color);
+}
+
+.profile-metrics strong,
+.profile-metrics span {
+  display: block;
+}
+
+.profile-metrics strong {
+  font-size: 1.45rem;
+}
+
+.profile-metrics span {
+  margin-top: 0.35rem;
+  color: var(--global-text-color-light);
+  font-size: 0.72rem;
+  line-height: 1.45;
+}
+
+.profile-next,
+.cv-summary {
+  margin-top: 2rem;
+  padding: 1.1rem 1.25rem;
+  border-radius: 0.65rem;
+  background: rgba(82, 173, 200, 0.08);
+}
+
+.project-list {
+  display: grid;
+  gap: 1.2rem;
+  margin-top: 2rem;
+}
+
+.project-story {
+  padding: 1.4rem 1.5rem;
+}
+
+.project-story h2 {
+  margin: 0.35rem 0 0.65rem;
+  font-size: 1.3rem;
+}
+
+.project-story ul {
+  margin-bottom: 0;
+}
+
+.experience-feature {
+  margin: 1.2rem 0 3rem;
+  padding: 1.5rem;
+}
+
+.experience-feature__header {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 1rem;
+  padding-bottom: 1rem;
+  border-bottom: 1px solid var(--global-border-color);
+}
+
+.experience-feature__header h2 {
+  max-width: 30rem;
+  margin: 0.35rem 0 0;
+  font-size: 1.35rem;
+}
+
+.experience-feature__header > span,
+.cv-date,
+.experience-list__date {
+  color: var(--global-text-color-light);
+  font-size: 0.75rem;
+  font-weight: 600;
+}
+
+.experience-steps {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 1.25rem;
+  padding-top: 1rem;
+}
+
+.experience-steps h3 {
+  margin-bottom: 0.4rem;
+  font-size: 0.92rem;
+}
+
+.experience-list {
+  display: grid;
+  gap: 1rem;
+}
+
+.experience-list article {
+  display: grid;
+  grid-template-columns: 8rem 1fr;
+  gap: 1.25rem;
+  padding: 1.25rem;
+}
+
+.experience-list h3,
+.experience-list p {
+  margin-top: 0;
+}
+
+.cv-summary p:last-child {
+  margin-bottom: 0;
+}
+
+.cv-date {
+  float: right;
+  padding-top: 0.25rem;
+}
+
+@media (max-width: 48rem) {
+  .profile-hero {
+    padding: 1.5rem;
+  }
+
+  .profile-grid--three,
+  .profile-metrics,
+  .experience-steps {
+    grid-template-columns: 1fr;
+  }
+
+  .profile-metrics {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+
+  .experience-feature__header,
+  .experience-list article {
+    display: block;
+  }
+
+  .experience-feature__header > span,
+  .experience-list__date,
+  .cv-date {
+    display: block;
+    float: none;
+    margin-top: 0.4rem;
+  }
+}
