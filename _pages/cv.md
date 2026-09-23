@@ -39,6 +39,46 @@ On track to graduate with Highest Honors (Summa Cum Laude)
 - Artificial Intelligence and Machine Learning (Deep learning)
 - Quantitative Analysis of Language Data
 
+
+## WORK EXPERIENCE
+
+### NLLN Co., Ltd – Intern <span class="cv-date">Dec 2025 – Feb 2026</span>
+
+- Supported IT system implementation projects for manufacturing clients by analyzing adoption trends in AI agents, machine-learning solutions, and factory automation technologies and contributing to sales strategy development.
+- Participated in client site visits and working-level meetings to identify operational pain points and business requirements, analyze relevant data and root causes, and develop improvement opportunities and solution recommendations.
+- Collaborated cross-functionally with engineering, consulting, and marketing teams to co-develop client proposals that integrated technical and business perspectives.
+
+## VOLUNTEER EXPERIENCE
+
+### Hanyang Global Lions Supporters | Student Supporter <span class="cv-date">May 2025 – Jul 2025</span>
+
+- Led weekly cultural immersion programs for participants in the 2025 Hanyang International Summer School, serving a global cohort of 1,712+ students from 50+ countries through themed field trips and guided cultural activities.
+- Managed end-to-end operations for cultural events, including program design, scheduling, logistics, stakeholder coordination, participant support, and on-site execution.
+- Developed promotional content and delivered outreach sessions for university exchange programs, strengthening student awareness and engagement across an internationally diverse campus community.
+
+### Kkumdungji Community Child Center | Volunteerer <span class="cv-date">Sep 2026 – Present</span>
+
+- Provide weekly mathematics tutoring to middle and high school students for 10 weeks from underserved backgrounds, including low-income, multicultural, and students with disabilities.
+- Teach mathematics across the Korean secondary-school curriculum, including algebra, geometry, probability and statistics, and calculus.
+
+## CLUB ACTIVITIES
+
+### HUHS – Computer Engineering Club <span class="cv-date">Mar 2025 – Present</span>
+
+- Participated in regular peer learning sessions with computer engineering students and graduate students, gaining exposure to engineering coursework, technical textbooks, and graduate-level programming practices.
+- Engaged in informal technical discussions and collaborative study sessions, which strengthened my interest in programming, engineering research, and graduate education.
+- Collaborated with club members in organizing and operating a booth during the university festival, supporting event preparation, visitor engagement, and on-site activities.
+
+## ADDITIONAL INFORMATION
+
+**Languages:** Korean (Native), English(IELTS 7.5), Chinese
+
+**Hobbies:** Baking, Hiking, Traveling
+
+## TECHNICAL SKILLS
+
+**Programming:** Python(NumPy, SciPy, Matplotlib)
+
 ## SELECTED COURSE PROJECTS
 
 ### 1. ESG-Driven Regeneration & Business Strategy for Let’s Run Park Seoul
@@ -112,44 +152,5 @@ On track to graduate with Highest Honors (Summa Cum Laude)
 
 - Applied Transformational Leadership Theory and Strategic Reframing to diagnose three executive eras: Béatrice de Plinval, Jean-Marc Mansvelt, Charles Leung.
 - Evaluated organizational transformation strategies across Chaumet’s history, identifying how leadership leveraged historical archives to overcome financial crises and regulatory shifts.
-
-## WORK EXPERIENCE
-
-### NLLN Co., Ltd – Intern <span class="cv-date">Dec 2025 – Feb 2026</span>
-
-- Supported IT system implementation projects for manufacturing clients by analyzing adoption trends in AI agents, machine-learning solutions, and factory automation technologies and contributing to sales strategy development.
-- Participated in client site visits and working-level meetings to identify operational pain points and business requirements, analyze relevant data and root causes, and develop improvement opportunities and solution recommendations.
-- Collaborated cross-functionally with engineering, consulting, and marketing teams to co-develop client proposals that integrated technical and business perspectives.
-
-## VOLUNTEER EXPERIENCE
-
-### Hanyang Global Lions Supporters | Student Supporter <span class="cv-date">May 2025 – Jul 2025</span>
-
-- Led weekly cultural immersion programs for participants in the 2025 Hanyang International Summer School, serving a global cohort of 1,712+ students from 50+ countries through themed field trips and guided cultural activities.
-- Managed end-to-end operations for cultural events, including program design, scheduling, logistics, stakeholder coordination, participant support, and on-site execution.
-- Developed promotional content and delivered outreach sessions for university exchange programs, strengthening student awareness and engagement across an internationally diverse campus community.
-
-### Kkumdungji Community Child Center | Volunteerer <span class="cv-date">Sep 2026 – Present</span>
-
-- Provide weekly mathematics tutoring to middle and high school students for 10 weeks from underserved backgrounds, including low-income, multicultural, and students with disabilities.
-- Teach mathematics across the Korean secondary-school curriculum, including algebra, geometry, probability and statistics, and calculus.
-
-## CLUB ACTIVITIES
-
-### HUHS – Computer Engineering Club <span class="cv-date">Mar 2025 – Present</span>
-
-- Participated in regular peer learning sessions with computer engineering students and graduate students, gaining exposure to engineering coursework, technical textbooks, and graduate-level programming practices.
-- Engaged in informal technical discussions and collaborative study sessions, which strengthened my interest in programming, engineering research, and graduate education.
-- Collaborated with club members in organizing and operating a booth during the university festival, supporting event preparation, visitor engagement, and on-site activities.
-
-## ADDITIONAL INFORMATION
-
-**Languages:** Korean (Native), English, Chinese
-
-**Hobbies:** Baking, Hiking, Traveling
-
-## TECHNICAL SKILLS
-
-**Programming:** Python(NumPy, SciPy, Matplotlib)
 
 </div>
