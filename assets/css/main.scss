@@ -67,9 +67,10 @@
 .profile-lede,
 .profile-page-intro {
   max-width: 48rem;
-  color: var(--global-text-color-light);
+  color: var(--global-text-color);
   font-size: 1.08rem;
   line-height: 1.7;
+  opacity: 0.82;
 }
 
 .profile-actions {
@@ -174,9 +175,10 @@
 
 .profile-metrics span {
   margin-top: 0.35rem;
-  color: var(--global-text-color-light);
+  color: var(--global-text-color);
   font-size: 0.72rem;
   line-height: 1.45;
+  opacity: 0.76;
 }
 
 .profile-next,
@@ -229,9 +231,10 @@
 .experience-feature__header > span,
 .cv-date,
 .experience-list__date {
-  color: var(--global-text-color-light);
+  color: var(--global-text-color);
   font-size: 0.75rem;
   font-weight: 600;
+  opacity: 0.72;
 }
 
 .experience-steps {
