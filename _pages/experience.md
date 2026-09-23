@@ -4,10 +4,12 @@ title: "Achievement"
 permalink: /achievement/
 author_profile: false
 excerpt: "Work achievement story by Chaerin Lee."
+redirect_from:
+  - /experience/
 ---
 
 <div class="document-actions">
-  <a class="document-download" href="{{ '/documents/chaerin-lee-work-achievement.docx' | relative_url }}" download>Download Experience (.docx)</a>
+  <a class="document-download" href="{{ '/documents/chaerin-lee-work-achievement.docx' | relative_url }}" download>Download Achievement (.docx)</a>
 </div>
 
 <div class="document-prose" markdown="1">
