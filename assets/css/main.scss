@@ -313,6 +313,25 @@
   line-height: 1.82;
 }
 
+.story-photo {
+  margin: 1.8rem 0 2.2rem;
+}
+
+.story-photo img {
+  display: block;
+  width: auto;
+  max-width: 100%;
+  height: auto;
+  margin: 0 auto;
+  border-radius: 0.6rem;
+  box-shadow: 0 0.55rem 1.6rem rgba(0, 0, 0, 0.12);
+}
+
+.story-photo--closing {
+  margin-top: 2rem;
+  margin-bottom: 0;
+}
+
 .cv-document {
   max-width: 62rem;
   margin: 0 auto;

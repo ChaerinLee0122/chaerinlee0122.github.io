@@ -24,6 +24,10 @@ But I had to get up, if not for myself, then for my parents’ sake, because I w
 
 More than anything, I gained the strength to bounce back because I thought about my mother.
 
+<figure class="story-photo">
+  <img src="{{ '/images/ps-mother-piano.jpg' | relative_url }}" alt="A pianist performing at a grand piano" width="1800" height="1200" loading="lazy" decoding="async">
+</figure>
+
 My mother is a concert pianist. I saw her perform in front of hundreds in the audience at posh venues like the Carnegie Hall of Korea, under a fancy spotlight.
 
 But as her daughter, I know about the behind-the-scenes stories, the ordeals she experienced to get to where she is today. She knew loneliness and solitude, for one, as she had to leave for Austria all alone at only 15. She *had to*, as she was offered something she simply couldn’t refuse, a full scholarship from a top music school, and that precious once-in-a-lifetime opportunity to study under the tutelage of a maestro.
@@ -45,5 +49,9 @@ This is my mother, and I am her daughter. As such, with my mother setting the ba
 As a result, my hair grew back. But it is not only the hair that grew. I grew as well. I now know what the saying, “Adversity makes a (wo)man” means. And I also got to know myself better – that I can overcome.
 
 As such, I am taking this experience with me when I leave for your program, where I know I will face challenges. But I know I can do it – because yes, I am my mother’s daughter
+
+<figure class="story-photo story-photo--closing">
+  <img src="{{ '/images/ps-mother-daughter.jpg' | relative_url }}" alt="A mother and daughter sitting together" width="640" height="480" loading="lazy" decoding="async">
+</figure>
 
 </div>
