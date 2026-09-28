@@ -13,7 +13,7 @@ redirect_from:
 </div>
 
 <div class="document-prose" markdown="1">
-[Uploading IMG_5531.ㅔㅇㄹ.pdf…]()
+[IMG_5531.ㅔㅇㄹ.pdf](https://github.com/user-attachments/files/32738065/IMG_5531.pdf)
 
 **Revamping image of horses in Korea**
 
