@@ -16,6 +16,10 @@ redirect_from:
 
 **Revamping image of horses in Korea**
 
+<figure class="story-photo">
+  <img src="{{ '/images/achievement-horse.jpg' | relative_url }}" alt="Chaerin Lee taking a photo beside a white horse" width="769" height="1025" loading="lazy" decoding="async">
+</figure>
+
 “What? You are going to the Let’s Run Park?” My mother was stunned when I told her I had to visit the park for a class project. It is the only park in Korea that includes a horse racing track, and in Korea, horse racing is often associated with gambling.
 
 To be honest, I was also a bit worried because of the negative images of horse racing that I had seen on TV and in movies before: images of gaunt gambling addicts smoking while shouting for their picks.
