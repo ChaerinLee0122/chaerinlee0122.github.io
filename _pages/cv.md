@@ -81,7 +81,23 @@ On track to graduate with Highest Honors (Summa Cum Laude)
 
 ## SELECTED COURSE PROJECTS
 
-### 1. ESG-Driven Regeneration & Business Strategy for Let’s Run Park Seoul
+### 1. Hotel Revenue Management Analytics
+
+*Tourism Revenue Management*
+
+- Completed weekly Excel-based case analyses involving hotel performance measurement, pricing, demand forecasting, booking curves, overbooking, inventory allocation, group displacement, and distribution-channel management.
+- Calculated occupancy, ADR, RevPAR, net ADR, and GOPPAR, and evaluated room-upselling and distribution-channel scenarios using incremental revenue, commission, and profitability measures.
+- Conducted a group displacement analysis incorporating forecast room demand, segment-specific rates, OTA commissions, and ancillary revenues and costs; recommended optional dates projected to generate $16,877 more net revenue and estimated the break-even group rate for the preferred dates.
+
+### 2. Tourism Dependence & Economic Impact Analysis: The Maldives
+
+*Tourism Economics*
+
+- Sourced and structured WTTC data in Excel, covering 2018–2023 historical indicators and 2024 and 2034 projections for tourism GDP, employment, visitor spending, and inbound markets; created comparative visualizations for a team research report.
+- Benchmarked the Maldives’ 2023 tourism contribution—58.9% of GDP and 76.8% of employment—against global and South Asian averages, and identified that international visitors accounted for 99.4% of total tourism spending.
+- Applied tourism economics concepts—including demand elasticity, multiplier effects, externalities, public goods, and opportunity cost—to evaluate tourism-led growth, structural dependence, environmental risks, and sustainable policy priorities.
+
+### 3. ESG-Driven Regeneration & Business Strategy for Let’s Run Park Seoul
 
 *Theories of Tourism Resources*
 
@@ -90,7 +106,7 @@ On track to graduate with Highest Honors (Summa Cum Laude)
 - Developed a 130-person operational human resource plan and structured an ESG governance framework (e.g. retired racehorse welfare programs, zero-waste local F&B partnerships)
 - Designed a CAPEX Allocation Plan constrained by public corporate revenue laws, mapping investments across ecosystem programs, running grounds, and immersive media centers.
 
-### 2. World Youth Day 2027: "Global Youth Seoul Living Lab" & UGC Reporter Program
+### 4. World Youth Day 2027: "Global Youth Seoul Living Lab" & UGC Reporter Program
 
 *Tourism Policy Proposal Competition*
 
@@ -98,7 +114,7 @@ On track to graduate with Highest Honors (Summa Cum Laude)
 - Created a multi-language User Generated Content reporter system converting 100+ nationality youth into global city ambassadors via short-form video creation.
 - Formulated the "Global Youth Seoul Living Lab" framework, providing a 1-month stay package to meet Z-generation demand for "Living Like a Local.”
 
-### 3. Strategic Business Analysis: Amazon Shopper Panel & Ad Attribution
+### 5. Strategic Business Analysis: Amazon Shopper Panel & Ad Attribution
 
 *Hospitality and Tourism Marketing*
 
@@ -106,7 +122,7 @@ On track to graduate with Highest Honors (Summa Cum Laude)
 - Benchmarked Amazon Shopper Panel against legacy consumer panels (Nielsen, Circana/NPD, Google Opinion Rewards, Ibotta) across data exclusivity, account-level ID integration, and digital ad attribution capabilities.
 - Diagnosed ethical and regulatory vulnerabilities regarding GDPR, CCPA, and Antitrust laws, assessing trade-offs between consumer privacy (GPS/device ID tracking), data valuation fairness, and off-platform competitive data acquisition.
 
-### 4. Market Evolution & Strategic Analysis of the Food Delivery Industry
+### 6. Market Evolution & Strategic Analysis of the Food Delivery Industry
 
 *Contemporary Issues in Service Industry*
 
@@ -114,7 +130,7 @@ On track to graduate with Highest Honors (Summa Cum Laude)
 - Conducted a comparative study on delivery platform business models, analyzing market survival factors, fee structure dynamics, and subscription-based customer retention strategies.
 - Forecasted future industry transformations, examining trends in Quick-Commerce, autonomous last-mile logistics (M2M elevator-integrated delivery robots and drones), and IP-driven Ghost Kitchens.
 
-### 5. Nielsen PRIZM: Geodemographic Modeling & Hospitality Application
+### 7. Nielsen PRIZM: Geodemographic Modeling & Hospitality Application
 
 *Hospitality and Tourism Marketing*
 
@@ -122,7 +138,7 @@ On track to graduate with Highest Honors (Summa Cum Laude)
 - Applied the PRIZM methodology to hotel marketing (Marriott International), profiling the Y1-34 segment to design targeted upsell packages, fitness partnerships, and digital channel strategies.
 - Identified strategic limitations regarding non-US market adaptation and travel-specific situational variables, proposing localized data re-engineering.
 
-### 6. AI-Powered Emotion-Based Stayover Tourism Cluster: Chung-Buk
+### 8. AI-Powered Emotion-Based Stayover Tourism Cluster: Chung-Buk
 
 *International Tourist Behavior*
 
@@ -130,7 +146,7 @@ On track to graduate with Highest Honors (Summa Cum Laude)
 - Formulated a smart tourism master plan for Chung-Buk Province to shift day-trip dependency toward multi-day stayover travel by establishing an interactive healing, nighttime, and workation cluster across Chung-Buk Province.
 - Designed resident-participatory AR experiences co-created with local elders and artisans to preserve cultural authenticity and prevent commercialized commodification.
 
-### 7. Aman Group: Global Brand Strategy & Industry Benchmarking
+### 9. Aman Group: Global Brand Strategy & Industry Benchmarking
 
 *The Understanding of Hotel*
 
@@ -138,7 +154,7 @@ On track to graduate with Highest Honors (Summa Cum Laude)
 - Executed a competitive intelligence analysis comparing Aman with ultra-luxury peers (Six Senses and COMO Hotels), evaluating differences in medical wellness offerings and ESG/sustainability governance frameworks (GSTC, Earth Lab).
 - Analyzed revenue optimization strategies (Aman Club membership, lifestyle retail) against the risk of prestige erosion in the high-end hospitality segment.
 
-### 8. Organizational Behavior & Leadership Frameworks at Marriott
+### 10. Organizational Behavior & Leadership Frameworks at Marriott
 
 *Hospitality and Tourism Leadership*
 
@@ -146,7 +162,7 @@ On track to graduate with Highest Honors (Summa Cum Laude)
 - Facilitated in-depth discussions on leadership prioritization in high-stakes environments, balancing organizational culture with crisis management.
 - Synthesized strategic insights demonstrating that while relationship-driven cultures lay the foundation for organizational trust, corporate scaling and complex market dynamics (e.g., Starwood M&A, asset-light transition, and pandemic response) demand a shift toward strategic, task-oriented governance.
 
-### 9. Strategic Leadership & Luxury Heritage Transformation: Chaumet (LVMH Group)
+### 11. Strategic Leadership & Luxury Heritage Transformation: Chaumet (LVMH Group)
 
 *Hospitality and Tourism Leadership*
 
