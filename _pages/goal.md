@@ -30,7 +30,7 @@ In addition, to analyze customer data, studying the text alone won’t suffice. 
 
 Therefore, there is a need to study ways to make these data count. For this, I really must study the set of tools to collect (much valuable data already exists but is buried deep in dusty cabinets, so to speak), cleanse it (much data is messy at best, while bias is always a concern), and analyze data that comes in all different forms. Even in text, many people use in-group coded language, like a deliberate misspelling, so outsiders will not catch it.
 
-As such, I need you because I plan to join a consulting firm afterward to help existing companies better understand their customers and provide better services. Later, if I may, I hope to start my own consulting company that caters to the key players in my industries (there is no such consultancy in Korea at this point).
+As such, I plan to join a consulting firm afterward to help existing companies better understand their customers and provide better services. Later, if I may, I hope to start my own consulting company that caters to the key players in my industries (there is no such consultancy in Korea at this point).
 
 And I know for a fact that there will be demand because even the five-star hotels today manage customer data 1D. Yes, we do know their name, gender, and frequency of stay, but except for a few VIPs, the data collected is often limited. Meanwhile, the demand for this type of consultancy will be significant, I am sure, as my industries are scale industries.
 
@@ -40,6 +40,6 @@ As a last note, although my target industries may seem rather clear-cut, in many
 
 Therefore, I need to study diverse industries and the ways to analyze different industries.
 
-Accordingly, business analytics is the ideal field of study for me, allowing me to help provide “good things in life” that contribute to a good life.
+I want to help provide “good things in life” that contribute to a good life.
 
 </div>
